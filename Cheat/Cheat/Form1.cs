@@ -601,10 +601,10 @@ namespace Cheat
 		public int CMDBufferBase = 292272864;
 
 		// Token: 0x0400000D RID: 13
-		public int XPScaleZM = 265479520;
+		public int XPScaleZM = 265457183;
 
 		// Token: 0x0400000E RID: 14
-		public int GunXPScaleZM = 265479536;
+		public int GunXPScaleZM = 265457364;
 
 		// Token: 0x0400000F RID: 15
 		public int JumpHight = 279450696;
